@@ -1,5 +1,5 @@
 ### Hi there 👋 
-My name is Evandrew Reynald Collin. You can call me Evan. \\
+My name is Evandrew Reynald Collin. You can call me Evan. \
 I am a Computer Engineering Student at Sepuluh Nopember Institute of Technology.
 - 🔭 I’m currently working on my final project thesis
 - 🌱 I’m currently learning AI and Computer Vision
