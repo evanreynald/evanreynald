@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi there 👋 
+My name is Evandrew Reynald Collin. You can call me Evan. I am a Computer Engineering Student at Sepuluh Nopember Institute of Technology.
+- 🔭 I’m currently working on my final project thesis
+- 🌱 I’m currently learning AI and Computer Vision
+- 📫 How to reach me:
+  evandrewgultom@gmail.com
 <!--
 **evanreynald/evanreynald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
