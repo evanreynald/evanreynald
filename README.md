@@ -1,7 +1,7 @@
 ### Hi there 👋 
 My name is Evandrew Reynald Collin. You can call me Evan. \
-I am a Computer Engineering Student at Sepuluh Nopember Institute of Technology.
-- 🔭 I’m currently working on my final project thesis
+I am a Computer Engineering Fresh Graduate from Sepuluh Nopember Institute of Technology.
+- 🔭 I’m currently looking for job opportunities in IoT and Machine Learning scope.
 - 🌱 I’m currently learning AI and Computer Vision
 - 📫 How to reach me:
   evandrewgultom@gmail.com
